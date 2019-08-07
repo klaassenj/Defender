@@ -1,0 +1,69 @@
+Defender Development Guide
+
+Minimal Viable Product
+    -Player movement #
+    -FireBall projectile #
+    -Continuously spawning enemies that move across the screen #
+    -Health and Damage #
+
+Version 0.1
+    -Fireball Explosion Animation #
+    -Backdrop #
+    -Health Bar #
+    -Projectile Range #
+
+Version 0.2
+    -Pause Ability #
+    -Damageable Houses #
+    -Enemies able to do damage #
+    -Enemies move erratically occasionally #
+
+Version 0.3
+    -Waves #
+    -Gold System #
+    -Basic Menu and UI #
+    -Game Over Screen and Return to Menu #
+
+Version 0.4
+    -XP/Score System and Display Score after Defeat #
+    -Weapons System #
+    -Shop System #
+    -Different Projectiles #
+
+Version 0.5
+    -Unlockables #
+    -Music #
+    -Leveling System #
+    -Game has control of Waves #
+
+Version 0.6
+    -Towers #
+    -Save Ability #
+    -Upgrades
+    -Tower Shop
+
+Version 0.7
+    -Add Randomness
+    -Power Ups
+    -Bosses
+    -Enemy AI
+
+Version 0.8
+    -Different Enemies
+    -Different Levels
+    -Different Players
+    -Player, Enemy, and Projectile Animation
+
+Version 0.9
+    -Introduction
+    -Upgradeable Houses
+    -Achievements
+    -Challenges
+
+Version 1.0
+    -Tutorial Level
+    -Credits
+    -Controls Menu Page and Ability to change them
+    -Much Content
+
+
